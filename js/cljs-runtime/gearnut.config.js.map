@@ -1,0 +1,1 @@
+{"version":3,"sources":["gearnut/config.cljs"],"sourcesContent":["(ns gearnut.config)\n\n(def debug?\n  ^boolean goog.DEBUG)\n"],"mappings":";;AAEA,AAAKA,8BACMC","names":["gearnut.config/debug?","goog/DEBUG"]}

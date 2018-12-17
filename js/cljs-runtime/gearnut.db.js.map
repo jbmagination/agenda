@@ -1,0 +1,1 @@
+{"version":3,"sources":["gearnut/db.cljs"],"sourcesContent":["(ns gearnut.db)\n\n(def default-db\n  {:name \"re-frame\"})\n"],"mappings":";;AAEA,wBAAA,2CAAA,qDAAA,xHAAKA","names":["gearnut.db/default-db"]}

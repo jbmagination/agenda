@@ -1,0 +1,1 @@
+{"version":3,"sources":["agenda/config.cljs"],"sourcesContent":["(ns agenda.config)\n\n(def debug?\n  ^boolean goog.DEBUG)\n"],"mappings":";;AAEA,AAAKA,6BACMC","names":["agenda.config/debug?","goog/DEBUG"]}

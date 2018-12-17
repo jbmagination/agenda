@@ -1,26 +1,15 @@
 <noscript>turn on javascript it's not the 60's anymore</noscript>
-<!DOCTYPE html>
-<html>
-<head>
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<link rel="stylesheet" type="text/css" href="index.css">
-</head>
-<body>
-
-<div id="myDIV" class="header">
-  <h2 style="margin:5px">Homework</h2>
-  <input type="text" id="myInput" placeholder="Title...">
-  <span onclick="newElement()" class="addBtn">Add</span>
-</div>
-
-<ul id="myUL">
-  <li>Study Science vocabulary</li>
-  <li>Read for 20 minutes</li>
-  <li>Archeology field trip next week</li>
-  <li>Learn pythagorean theorem</li>
-  <li status="checked">Find homework checker</li>
-</ul>
-
-</body>
-<script src="index.js"></script>
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="css/main.css">
+    <script defer src="https://use.fontawesome.com/releases/v5.3.1/js/all.js"></script>
+  </head>
+  <body>
+    <div id="app"></div>
+    <script src="js/main.js"></script>
+  </body>
+  <script>agenda.core.init();</script>
 </html>

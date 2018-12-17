@@ -1,0 +1,1 @@
+{"version":3,"sources":["day8/re_frame/trace/view/views.cljs"],"sourcesContent":["(ns day8.re-frame.trace.view.views)\n\n(defn render [])\n"],"mappings":";;AAEA,wCAAA,xCAAMA;AAAN,AAAA","names":["day8.re-frame.trace.view.views/render"]}
