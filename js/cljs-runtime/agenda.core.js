@@ -20,8 +20,8 @@ agenda.core.mount_root = (function agenda$core$mount_root(){
 return reagent.core.render.cljs$core$IFn$_invoke$arity$2(new cljs.core.PersistentVector(null, 1, 5, cljs.core.PersistentVector.EMPTY_NODE, [agenda.views.main_panel], null),document.getElementById("app"));
 });
 agenda.core.init = (function agenda$core$init(){
-var G__34746_34747 = new cljs.core.PersistentVector(null, 1, 5, cljs.core.PersistentVector.EMPTY_NODE, [new cljs.core.Keyword("agenda.events","initialize-db","agenda.events/initialize-db",1461763217)], null);
-(re_frame.core.dispatch_sync.cljs$core$IFn$_invoke$arity$1 ? re_frame.core.dispatch_sync.cljs$core$IFn$_invoke$arity$1(G__34746_34747) : re_frame.core.dispatch_sync.call(null,G__34746_34747));
+var G__14037_14038 = new cljs.core.PersistentVector(null, 1, 5, cljs.core.PersistentVector.EMPTY_NODE, [new cljs.core.Keyword("agenda.events","initialize-db","agenda.events/initialize-db",1461763217)], null);
+(re_frame.core.dispatch_sync.cljs$core$IFn$_invoke$arity$1 ? re_frame.core.dispatch_sync.cljs$core$IFn$_invoke$arity$1(G__14037_14038) : re_frame.core.dispatch_sync.call(null,G__14037_14038));
 
 agenda.core.dev_setup();
 
